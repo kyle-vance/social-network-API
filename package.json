@@ -1,0 +1,28 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "A social API to allow a user to add users, thoughts, and reactions. Built on NoSQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyle-vance/social-network-API.git"
+  },
+  "keywords": [],
+  "author": "Kyle Vance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyle-vance/social-network-API/issues"
+  },
+  "homepage": "https://github.com/kyle-vance/social-network-API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5",
+    "mongodb": "^4.10.0",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {}
+}

@@ -28,7 +28,7 @@ See the following video that reviews how to install and manage the API.
 ---
 
 ## Contributions
-Contact me via email if you wish to contribute to this projection.
+Contact me via email if you wish to contribute to this project.
 
 ---
 
